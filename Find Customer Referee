@@ -1,4 +1,4 @@
-Problem:
+\* Problem:
 Table: Customer
 
 +-------------+---------+
@@ -43,6 +43,7 @@ Output:
 | Bill |
 | Zack |
 +------+
+*/
 
 # Solution :
 
